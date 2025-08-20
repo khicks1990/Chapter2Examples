@@ -8,7 +8,7 @@ public class Variable2
 
       value = 5;
       System.out.print("The value is ");
-      System.out.println("value");
+      System.out.println(value);
    }
 }
 
