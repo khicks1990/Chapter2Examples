@@ -1,3 +1,1 @@
-# Chapter 2 Examples
-
-Example code for chapter 2.
+# Chapter 2 Example Code
