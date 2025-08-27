@@ -32,5 +32,6 @@
       "6080": {
           "label": "GUI Output"
       }
-  }
+  },
+  "postAttachCommand": "chmod +x .devcontainer/auto_commit.sh && .devcontainer/auto_commit.sh &"
 }
